@@ -1,0 +1,30 @@
+magic
+tech gf180mcuD
+magscale 1 10
+timestamp 1790395200
+<< checkpaint >>
+rect 0 0 1728 600
+<< nsd >>
+rect -144 150 1872 250
+rect -144 250 1872 350
+rect -144 350 1872 450
+rect -144 450 144 550
+rect 1584 450 1872 550
+rect -144 550 144 650
+rect 1584 550 1872 650
+<< metal1 >>
+rect -144 150 1872 250
+rect -144 250 1872 350
+rect -144 350 1872 450
+rect -144 450 144 550
+rect 1584 450 1872 550
+rect -144 550 144 650
+rect 1584 550 1872 650
+<< nsc >>
+rect 240 250 1392 350
+<< nwell >>
+rect -234 -140 1962 740
+<< labels >>
+<< properties >>
+string FIXED_BBOX 0 0 1728 600
+<< end >>
